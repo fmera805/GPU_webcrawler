@@ -1,2 +1,2 @@
 # GPU_webcrawler
-![alt text](img/sample.png "example")
+![alt text](img/sample2.png "example")
